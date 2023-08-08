@@ -1,4 +1,4 @@
-# Web-Dev
+# Web-Development
 Mini Projects
 
 ### Index:
